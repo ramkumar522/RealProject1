@@ -24,3 +24,19 @@
 	background: #444;
 	color: #fff;
 }
+
+.owl-nav {
+	text-align: center;
+	margin-top: 20px;
+}
+.owl-nav .owl-prev,.owl-nav .owl-next{
+	background: #f00 !important;
+    width: 30px;
+    height: 30px;
+    color: #fff !important;
+    line-height: 30px;
+    border:none;
+}
+.owl-nav .owl-prev{
+	margin-right: 10px;
+} 
